@@ -28,6 +28,7 @@
         "@xiaoshuapp/draggable": "4.1.1",
         "dexie": "3.2.3",
         "nexmoe.css": "0.6.0",
+        "pnpm": "^9.10.0",
         "sharer.js": "0.5.1"
     },
     "devDependencies": {
